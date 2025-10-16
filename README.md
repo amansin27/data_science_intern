@@ -1,2 +1,1 @@
-# data_science_intern
-data science repo
+# big_mart_sale_prediction
